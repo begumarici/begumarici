@@ -1,5 +1,7 @@
 ### Hi there, I'm Begüm 👋
 
+- 🌱 I’m currently learning Java
+
 <!--
 **begumarici/begumarici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
