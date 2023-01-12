@@ -1,5 +1,6 @@
 ### Hi there, I'm Begüm   <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30px" height="30px">
 
+🌱 I’m currently learning Swift.
 
 
 
