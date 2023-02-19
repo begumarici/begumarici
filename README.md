@@ -3,6 +3,7 @@
 - 👩🏻‍💻 I'm a computer engineering student.
 - 🌱 I’m currently learning Swift.
 
+![](https://komarev.com/ghpvc/?username=begumarici&color=green)
 
 
 
