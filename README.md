@@ -6,8 +6,9 @@
 ![](https://komarev.com/ghpvc/?username=begumarici&color=red)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=begumarici&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=begumarici&langs_count=8)](https://github.com/begumarici/github-readme-stats)
+
 <!--
 **begumarici/begumarici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
