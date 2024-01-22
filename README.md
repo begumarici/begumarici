@@ -4,8 +4,7 @@
 
 - 🌱 I’m currently learning Machine Learning.
 
-![](https://komarev.com/ghpvc/?username=begumarici&color=red)
-
+<!-- ![](https://komarev.com/ghpvc/?username=begumarici&color=red)-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=begumarici&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -16,7 +15,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-🌱 I’m currently learning Swift.
+- 🌱 I’m currently learning Swift.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -24,3 +23,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/begumarici/count.svg" />
+</p>
