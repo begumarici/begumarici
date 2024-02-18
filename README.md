@@ -6,7 +6,7 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=begumarici&color=red)-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=begumarici&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=begumarici&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
 <!--
