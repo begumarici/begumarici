@@ -2,7 +2,7 @@
 
 - 👩🏻‍💻 I'm a computer engineering student.
 
-- 🌱 I’m currently learning Machine Learning.
+- 🌱 I’m currently learning Data Science.
 
 <!-- ![](https://komarev.com/ghpvc/?username=begumarici&color=red)-->
 
