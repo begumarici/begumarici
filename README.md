@@ -1,8 +1,19 @@
 ### Hi there, I'm Begüm   <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30px" height="30px">
 
- - 👩🏻‍💻 I'm a computer engineering student. 
+🎓 Computer Engineering Student 
 
-<!-- - 🌱 I’m currently learning TensorFlow. -->
+🔭 I'm passionate about **iOS development, AI, and interactive applications**.  
+
+🌱 Currently learning **Swift, UIKit and SwiftUI.** 
+
+--- 
+![GitHub Streak](https://streak-stats.demolab.com/?user=begumarici&theme=radical)
+
+📫 **Reach me at:**  
+<a href="https://www.linkedin.com/in/begumarici/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40">
+</a>
+
 
 <!-- ![](https://komarev.com/ghpvc/?username=begumarici&color=red)-->
 
